@@ -1,5 +1,5 @@
 🛒 Grocery App (Blinkit UI Clone)
-![img alt](https://github.com/09111994/flutter-grocery-app/blob/223492215307cafbd1f349967854c9ca87b143c7/grocery1.png)
+![img alt](https://github.com/09111994/flutter-grocery-app/blob/223492215307cafbd1f349967854c9ca87b143c7/grocery1.png<height 10,width 10>)
 
 A modern grocery delivery app inspired by Blinkit, designed for a fast, smooth, and user-friendly shopping experience.
 
