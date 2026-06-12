@@ -11,7 +11,7 @@ A modern grocery delivery app inspired by Blinkit, designed for a fast, smooth, 
 🎉 Promotional banners & deals
 📱 Responsive design
 📸 Screenshots
-<img src="grocery3.png" width="200" height="600">   <img src="grocry4.png" width="200" height="600">  <img src="grocry6.png" width="200" height="600"> 
+<p><img src="grocery3.png" width="200" height="600">   <img src="grocry4.png" width="200" height="600">  <img src="grocry6.png" width="200" height="600"> </p>
 🛠️ Tech Stack
 Flutter
 Dart
