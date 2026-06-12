@@ -1,6 +1,6 @@
 🛒 Grocery App (Blinkit UI Clone)
 
-<img src="grocery2.png" width="300" height="200" />
+<img src="grocery2.png" width="300" height="500" />
 A modern grocery delivery app inspired by Blinkit, designed for a fast, smooth, and user-friendly shopping experience.
 
 🚀 Features
